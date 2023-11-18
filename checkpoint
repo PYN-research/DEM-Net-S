@@ -1,2 +1,2 @@
-model_checkpoint_path: "/home/jiansun/puyannan/savemodel32/autoencoder32.cpkt-499"
-all_model_checkpoint_paths: "/home/jiansun/puyannan/savemodel32/autoencoder32.cpkt-499"
+model_checkpoint_path: "/savemodel32/autoencoder32.cpkt-499"
+all_model_checkpoint_paths: "/savemodel32/autoencoder32.cpkt-499"
